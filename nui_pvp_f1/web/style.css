@@ -1,0 +1,180 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,300;0,400;0,700;1,100;1,300;1,400;1,700&display=swap%27");
+
+* {
+    font-family: "Poppins";
+   }
+.bordapreta{
+    background-color: rgba(163, 162, 162, 0);
+    border-radius: 20px;
+    position: absolute;
+    left: -30px;
+    margin: 70px 150px;
+    height: 400px;
+    width: 940px;
+    position: fixed;
+    padding: 60px;
+    border: 2px solid rgb(0, 0, 0);
+}
+.server{
+    width: 150px;
+    height: 100px;
+    margin-left: 390px;
+    margin-top: -30px;
+    border-radius: 10px;
+}
+.pistolmk2{
+    height: 70px;
+    width: 100px;
+    position: absolute;
+    top: 260px;
+    left: 150px;
+}
+.bordapistol{
+    background-color: rgb(0, 0, 0);
+    border-radius: 10px;
+    border: 2px solid whitesmoke;
+    width: 200px;
+    height: 250px;
+    margin-top: 5vw;
+    display: flex;
+    align-content: space-around;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+    margin-left: 40px;
+}
+.EscritaPisolta{
+    color: whitesmoke;
+    position: absolute;
+    font-family: 'Poppins', sans-serif;
+    left: 160px;
+    top: 200px;
+}
+.container .btn1 {
+    position: absolute;
+    top: -80px;
+    left: 35%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: #f1f1f1;
+    color: black;
+    font-size: 16px;
+    padding: 16px 30px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+
+  }
+  
+  .container .btn1:hover {
+    background-color: rgb(134, 133, 133);
+    color: rgb(0, 0, 0);
+  }
+
+.pistolAp{
+    height: 50px;
+    width: 100px;
+    position: absolute;
+    top: 260px;
+    left: 480px;
+}
+.pistolApfundo{
+    background-color: rgb(0, 0, 0);
+    border-radius: 10px;
+    border: 2px solid whitesmoke;
+    width: 200px;
+    height: 250px;
+    margin-top: -253px;
+    display: flex;
+    align-content: space-around;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+    margin-left: 370px;
+}
+.EscritaAppistol{
+    color: whitesmoke;
+    position: absolute;
+    font-family: 'Poppins', sans-serif;
+    left: 475px;
+    top: 200px;
+}
+.container .btn2 {
+    position: absolute ;
+    top: -80px;
+    left: 118%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: #f1f1f1;
+    color: black;
+    font-size: 16px;
+    padding: 16px 30px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+
+  }
+  
+  .container .btn2:hover {
+    background-color: rgb(134, 133, 133);
+    color: rgb(0, 0, 0);
+  }
+.fuzilzone{
+    height: 50px;
+    width: 150px;
+    position: absolute;
+    top: 260px;
+    left: 790px;
+}
+.fuzilborda{
+    background-color: rgb(0, 0, 0);
+    border-radius: 10px;
+    border: 2px solid whitesmoke;
+    width: 200px;
+    height: 250px;
+    margin-top: -253px;
+    display: flex;
+    align-content: space-around;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+    margin-left: 700px;
+}
+.EscritaFuzilZone{
+    color: whitesmoke;
+    position: absolute;
+    font-family: 'Poppins', sans-serif;
+    left: 820px;
+    top: 200px;
+}
+.container .btn3 {
+    position: absolute;
+    top: -80px;
+    left: 202%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: #f1f1f1;
+    color: black;
+    font-size: 16px;
+    padding: 16px 30px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+    
+  }
+  
+  .container .btn3:hover {
+    background-color: rgb(134, 133, 133);
+    color: rgb(0, 0, 0);
+  }
+.container {
+    position: relative;
+    width: 100%;
+    max-width: 400px;
+  }
